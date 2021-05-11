@@ -1,0 +1,3 @@
+- Pour être plus evolutif, les recettes et les prix peuvent être mis dans une base de données ou dans un fichier XML. 
+
+- Faute d'avoir une version recente de Visual Studio, j'ai utilsé Visual Studio 2013. C'est pourquoi, je ne peux utiliser le module NUNIT pour les tests unitaires. En utilisant "TestCase", j'ai besoin d'ecrire un seul test au lieu de cinq. 
